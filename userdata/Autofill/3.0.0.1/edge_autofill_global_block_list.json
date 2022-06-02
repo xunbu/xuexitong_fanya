@@ -1,0 +1,10 @@
+{ 
+    "global_block_list" : [{
+		"value" : "edge-webscratch|$|1697087349614708908", 
+		"type" : 2, 
+		"feature" : 0,
+		"source" : 1,
+		"metadata" : "global block list test form"
+		}]
+}
+
