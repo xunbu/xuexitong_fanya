@@ -104,7 +104,7 @@ class Ui_Form(object):
     # setupUi
 
     def retranslateUi(self, Form):
-        Form.setWindowTitle(QCoreApplication.translate("Form", u"\u5b66\u4e60\u901a-\u6cdb\u96c5\u63a7\u5236\u53f0", None))
+        Form.setWindowTitle(QCoreApplication.translate("Form", "控制台V1.0(软件完全免费，作者github.com/xunbu)", None))
         self.lineEdit.setPlaceholderText(QCoreApplication.translate("Form", u"\u8bfe\u7a0b\u7f51\u5740", None))
         self.pushButton.setText(QCoreApplication.translate("Form", u"\u786e\u5b9a", None))
         ___qtablewidgetitem = self.tableWidget.horizontalHeaderItem(0)
