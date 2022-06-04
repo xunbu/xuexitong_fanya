@@ -1,6 +1,7 @@
 本软件仅支持带有edge浏览器的windows系统使用 
 本软件仅支持学习通泛雅平台
-
+成品软件下载地址：[蓝奏云地址](https://xunbu.lanzoul.com/i6RIB05tvx5e)  
+github：[github release](https://github.com/xunbu/xuexitong_fanya/releases)  
   
 点击main.exe开始运行(webdriver的黑框框不要删除)  
 在新的edge窗口里进入学习通
