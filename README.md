@@ -1,3 +1,5 @@
+#非常重要，使用必看
+##软件不能直接使用，请至[edgedriver网址](https://msedgewebdriverstorage.z22.web.core.windows.net)下载于与edge浏览器对应版本的msedgedriver【记得是解压后的exe文件】放至文件夹中（覆盖原msdriver文件） 
 本软件仅支持带有edge浏览器的windows系统使用 
 本软件仅支持学习通泛雅平台  
 成品软件下载地址:  
